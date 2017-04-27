@@ -1,0 +1,6 @@
+c:\users\seven\documents\visual studio 2017\Projects\HelloWorld_CroweHorwath\HelloWorld_CroweHorwath\bin\Debug\HelloWorld_CroweHorwath.exe.config
+c:\users\seven\documents\visual studio 2017\Projects\HelloWorld_CroweHorwath\HelloWorld_CroweHorwath\bin\Debug\HelloWorld_CroweHorwath.exe
+c:\users\seven\documents\visual studio 2017\Projects\HelloWorld_CroweHorwath\HelloWorld_CroweHorwath\bin\Debug\HelloWorld_CroweHorwath.pdb
+c:\users\seven\documents\visual studio 2017\Projects\HelloWorld_CroweHorwath\HelloWorld_CroweHorwath\obj\Debug\HelloWorld_CroweHorwath.csprojResolveAssemblyReference.cache
+c:\users\seven\documents\visual studio 2017\Projects\HelloWorld_CroweHorwath\HelloWorld_CroweHorwath\obj\Debug\HelloWorld_CroweHorwath.exe
+c:\users\seven\documents\visual studio 2017\Projects\HelloWorld_CroweHorwath\HelloWorld_CroweHorwath\obj\Debug\HelloWorld_CroweHorwath.pdb
